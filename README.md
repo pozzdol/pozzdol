@@ -1,5 +1,5 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Fikri Achmad Anshori</h1>
-<h3 align="center">Iâ€™m a 6th-semester Informatics student with a strong interest in Front-End Development and hands-on experience in Full-Stack Development.</h3>
+<h1 align="center">Hi 👋, I'm Fikri Achmad Anshori</h1>
+<h3 align="center">I’m a 6th-semester Informatics student with a strong interest in Front-End Development and hands-on experience in Full-Stack Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
