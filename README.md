@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Fikri Achmad Anshori 👋</h1>
 
-<h3 align="center">A passionate 6th-semester Informatics student with a keen interest in Front-End Development and hands-on experience in Full-Stack Development.</h3>
+<h3 align="center">A passionate 6th-semester Informatics student with a keen interest in Front-End Development and hands-on experience in Full-Stack Development</h3>
 
 ---
 
